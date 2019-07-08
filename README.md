@@ -1,7 +1,15 @@
 # sort-service
 
-## Installation
+## Usage
+
+### Installation
 
 ```sh
-npm install
+$ npm install
+```
+
+### Development
+
+```sh
+$ npm run dev
 ```
