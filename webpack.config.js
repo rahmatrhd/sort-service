@@ -19,5 +19,8 @@ module.exports = {
     plugins: [
         new ForkTsCheckerWebpackPlugin(),
     ],
+    resolve: {
+        extensions: ['.ts', '.js'],
+    },
     target: 'node',
 }
